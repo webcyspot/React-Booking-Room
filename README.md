@@ -26,6 +26,8 @@
 
 ### Execute
 
+node -v 14.17.5
+
 `npm run start`
 
 `npm run build`
